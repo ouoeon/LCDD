@@ -29,7 +29,7 @@ predictor.py
 평가:plot을 계산하고 저장
 
 
-#ChemicalVAE
+# ChemicalVAE
 
 이 프로젝트는 SMILES 데이터를 Input으로 하는 Variational Autoencoder, VAE 모델을 구현해 분자를 생성하고 생성된 분자들의 화학적 특성  최적화를 가능하게 한다.
 
