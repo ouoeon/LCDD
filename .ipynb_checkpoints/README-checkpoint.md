@@ -1,2 +1,0 @@
-# ADG
-# ChemicalVAE
